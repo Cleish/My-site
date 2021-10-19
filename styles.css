@@ -1,0 +1,19 @@
+<style>
+
+body { background-color: #000000;color: #FFFFFF;}
+li { list-style-type}
+li.1 { list-style-type: square; }
+h1 {font-size: 20px;}
+
+p {color: green;
+	font-size: 12px;}
+
+.new-class {
+	border-style: dotted;
+	border-width: 2px
+	height: 100px;
+	width: 100px;
+}
+
+
+</style>
